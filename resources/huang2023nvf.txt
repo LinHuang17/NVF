@@ -1,0 +1,6 @@
+@article{huang2023nvf,
+  title={Neural Voting Field for Camera-Space 3D Hand Pose Estimation},
+  author={Huang, Lin and Lin, Chung-Ching and Lin, Kevin and Liang, Lin and Wang, Lijuan and Yuan, Junsong and Liu, Zicheng},
+  journal={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2023}
+}
